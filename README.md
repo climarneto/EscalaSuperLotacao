@@ -4,6 +4,9 @@
 ### Descrição:
 Projeto criado para auxílio a Unidades de Saúde onde pode-se verificar a lotação das Unidades, auxiliando a Alta Gerência, principalmente na Pandemia de COVID-19.
 
+### Licença:
+MIT License
+
 ### Linguagem de Programação: 
 Java
 
@@ -15,18 +18,18 @@ NetBeans
 Postgrers
 Git
 
-### Instalando
+### Instalando:
 
 Clone HTTPS: https://github.com/climarneto/EscalaSuperLotacao.git
 
-### Autores
+### Autores:
 Leonardo Lima (Projeto Inicial)
 Climar Neto (Desenvolvedor)
 
-### Versão
+### Versão:
 1.0 (22/07/2020)
 
-### Imagens
+### Imagens:
 
 #### Tela de Login
 
@@ -35,3 +38,4 @@ Climar Neto (Desenvolvedor)
 #### Tela de Principal
 
 ![Tela Principal](https://github.com/climarneto/EscalaSuperLotacao/blob/main/Tela%20Principal.PNG)
+
