@@ -1,4 +1,9 @@
+![GitHub repo size](https://img.shields.io/github/repo-size/climarneto/EscalaSuperLotacao)
+![GitHub](https://img.shields.io/github/license/climarneto/EscalaSuperLotacao)
+![GitHub watchers](https://img.shields.io/github/watchers/climarneto/EscalaSuperLotacao?style=social)
+
 # Escala Super Lotacao
+
 ## Sistema para cálculo de SuperLotação em Unidades de Saúde
 
 ### Descrição:
