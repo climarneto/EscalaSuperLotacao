@@ -1,5 +1,6 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/climarneto/EscalaSuperLotacao)
 ![GitHub](https://img.shields.io/github/license/climarneto/EscalaSuperLotacao)
+![GitHub top language](https://img.shields.io/github/languages/top/climarneto/EscalaSuperLotacao)
 ![GitHub watchers](https://img.shields.io/github/watchers/climarneto/EscalaSuperLotacao?style=social)
 
 # Escala Super Lotacao
