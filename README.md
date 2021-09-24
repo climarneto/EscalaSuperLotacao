@@ -20,7 +20,7 @@ Git
 
 ### Instalando:
 
-Clone HTTPS: https://github.com/climarneto/EscalaSuperLotacao.git
+Clique em Fork acima.
 
 ### Autores:
 Leonardo Lima (Projeto Inicial)
